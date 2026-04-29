@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Modul9_103022400092\\Modul9_103022400092\\Modul9_103022400092.csproj": {}
+    "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\Modul9_103022400092.csproj": {}
   },
   "projects": {
-    "D:\\Modul9_103022400092\\Modul9_103022400092\\Modul9_103022400092.csproj": {
+    "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\Modul9_103022400092.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Modul9_103022400092\\Modul9_103022400092\\Modul9_103022400092.csproj",
+        "projectUniqueName": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\Modul9_103022400092.csproj",
         "projectName": "Modul9_103022400092",
-        "projectPath": "D:\\Modul9_103022400092\\Modul9_103022400092\\Modul9_103022400092.csproj",
+        "projectPath": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\Modul9_103022400092.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Modul9_103022400092\\Modul9_103022400092\\obj\\",
+        "outputPath": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

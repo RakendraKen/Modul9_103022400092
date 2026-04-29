@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Modul9_103022400092\\",
+  "WorkspaceRootPath": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB6FC7-2585-4AD2-B895-1B506DA86F1C}|Modul9_103022400092\\Modul9_103022400092.csproj|d:\\modul9_103022400092\\modul9_103022400092\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7BB6FC7-2585-4AD2-B895-1B506DA86F1C}|Modul9_103022400092\\Modul9_103022400092.csproj|solutionrelative:modul9_103022400092\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|d:\\kpl_mod9_se-48_04_103022400092_nmd\\modul9_103022400092\\modul9_103022400092\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|solutionrelative:modul9_103022400092\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|d:\\kpl_mod9_se-48_04_103022400092_nmd\\modul9_103022400092\\modul9_103022400092\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|solutionrelative:modul9_103022400092\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|d:\\kpl_mod9_se-48_04_103022400092_nmd\\modul9_103022400092\\modul9_103022400092\\confirmations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|solutionrelative:modul9_103022400092\\confirmations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|d:\\kpl_mod9_se-48_04_103022400092_nmd\\modul9_103022400092\\modul9_103022400092\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|solutionrelative:modul9_103022400092\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|d:\\kpl_mod9_se-48_04_103022400092_nmd\\modul9_103022400092\\modul9_103022400092\\bank_transfer_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1CB6E-3F10-0EFF-A86A-FA6E5B7A046E}|Modul9_103022400092\\Modul9_103022400092.csproj|solutionrelative:modul9_103022400092\\bank_transfer_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.cs",
+              "DocumentMoniker": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\config.cs",
+              "RelativeDocumentMoniker": "Modul9_103022400092\\config.cs",
+              "ToolTip": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\config.cs",
+              "RelativeToolTip": "Modul9_103022400092\\config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T00:16:59.018Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Modul9_103022400092\\Modul9_103022400092\\Program.cs",
+              "DocumentMoniker": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\Program.cs",
               "RelativeDocumentMoniker": "Modul9_103022400092\\Program.cs",
-              "ToolTip": "D:\\Modul9_103022400092\\Modul9_103022400092\\Program.cs",
+              "ToolTip": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\Program.cs",
               "RelativeToolTip": "Modul9_103022400092\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T23:51:41.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "confirmations.cs",
+              "DocumentMoniker": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\confirmations.cs",
+              "RelativeDocumentMoniker": "Modul9_103022400092\\confirmations.cs",
+              "ToolTip": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\confirmations.cs",
+              "RelativeToolTip": "Modul9_103022400092\\confirmations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T00:17:43.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "transfer.cs",
+              "DocumentMoniker": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\transfer.cs",
+              "RelativeDocumentMoniker": "Modul9_103022400092\\transfer.cs",
+              "ToolTip": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\transfer.cs",
+              "RelativeToolTip": "Modul9_103022400092\\transfer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T00:17:29.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bank_transfer_config.cs",
+              "DocumentMoniker": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\bank_transfer_config.cs",
+              "RelativeDocumentMoniker": "Modul9_103022400092\\bank_transfer_config.cs",
+              "ToolTip": "D:\\KPL_MOD9_SE-48_04_103022400092_NMD\\Modul9_103022400092\\Modul9_103022400092\\bank_transfer_config.cs",
+              "RelativeToolTip": "Modul9_103022400092\\bank_transfer_config.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T00:16:22.851Z",
               "EditorCaption": ""
             }
           ]
